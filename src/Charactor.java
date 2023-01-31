@@ -71,6 +71,4 @@ public class Charactor {
         return this.health > 0;
     }
 
-
-
 }
